@@ -11,7 +11,7 @@
   ],
   "routes": [
     {
-      "src": "/(.*)",
+      "src": "/campgrounds",
       "dest": "server.js"
     }
   ]
