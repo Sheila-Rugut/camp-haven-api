@@ -1,0 +1,26 @@
+{
+  "name": "camp-haven-api",
+  "version": "1.0.0",
+  "description": "repo containing camp-haven's backend data",
+  "main": "server.js",
+  "scripts": {
+    "dev": "NODE_ENV=development node server.js",
+    "start": "NODE_ENV=production node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "clone": "^2.1.2",
+    "json-server": "^0.17.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sheila-Rugut/camp-haven-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sheila-Rugut/camp-haven-api/issues"
+  },
+  "homepage": "https://github.com/Sheila-Rugut/camp-haven-api#readme"
+}
